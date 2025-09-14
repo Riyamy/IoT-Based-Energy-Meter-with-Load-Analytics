@@ -37,7 +37,7 @@ It integrates IoT data streams, a machine learning anomaly detection model, and 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/IoT-Based-Energy-Meter-with-Load-Analytics.git
+git clone https://github.com/Riyamy/IoT-Based-Energy-Meter-with-Load-Analytics.git
 cd IoT-Based-Energy-Meter-with-Load-Analytics
 ```
 
