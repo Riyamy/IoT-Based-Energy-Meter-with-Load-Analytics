@@ -1,0 +1,7 @@
+apiVersion: 1
+datasources:
+- name: EnergyCSV
+  type: grafana-csv-datasource
+  access: proxy
+  url: file:///workspace/energy_log.csv
+  isDefault: true

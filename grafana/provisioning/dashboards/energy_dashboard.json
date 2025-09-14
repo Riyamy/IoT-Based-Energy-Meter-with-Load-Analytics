@@ -1,0 +1,15 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Energy Monitoring Dashboard",
+    "panels": [
+      {
+        "type": "graph",
+        "title": "Energy Usage Over Time",
+        "targets": [
+          {"refId": "A", "datasource": "EnergyCSV"}
+        ]
+      }
+    ]
+  }
+}
